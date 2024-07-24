@@ -32,3 +32,5 @@ Enter the resistance (R) in ohms: 1000
 Enter the time constant (τ) in seconds: 0.005
 The needed capacitance value is: 0.000005 farads
 ```
+>[!WARNING]
+>This project is protected under [MIT License](LICENSE).
